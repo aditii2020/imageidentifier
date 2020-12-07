@@ -1,0 +1,50 @@
+body{
+    background-color: pink;
+    font-family: 'Merienda One', cursive;
+    font-size: 21px;
+}
+
+.header_div{
+    background: white;
+    color: red;
+}
+h2{
+    color: red;
+    font-family: 'Merienda One', cursive;
+    font-size: 37px;
+}
+.header_div img{
+    width: 100px;
+}
+.main_div{
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white ;
+}
+#result{
+    width: 310;
+    height: 300;
+    border: black 3px dashed;
+
+}
+#camera{
+    width: 310;
+    height: 300;
+    border: black 3px dashed;
+}
+
+.footer_div{
+    margin: 50px;
+}
+
+.footer_div h4{
+    background: white;
+    box-shadow: 5px 5px 18px white;
+    padding: 10px;
+    border-radius: 10px;
+    width: 400px;
+    height: 100px;
+}
+.footer_div img{
+    width: 70px;
+}
